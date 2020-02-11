@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <!-- 打开开发模式, 可以在页面中debug(<s:debug>标签), 详见success.jsp -->
+    <constant name="struts.devMode" value="true"/>
+    <!--  设置允许在页面中使用ognl访问静态方法  -->
+    <constant name="struts.ognl.allowStaticMethodAccess" value="true"/>
+    
+    <package name="param" extends="struts-default">
+        <global-results>
+            <result name="input">/error.jsp</result>
+        </global-results>
+        
+        <action name="hello" class="com.mycomp.valuestack.HelloAction">
+            <result name="success">/success.jsp</result>
+        </action>
+    </package>
+</struts>
