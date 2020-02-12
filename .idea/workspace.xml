@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9809f4-7698-46a8-9551-2290e63872da" name="Default Changelist" comment="" />
+    <list default="true" id="0d9809f4-7698-46a8-9551-2290e63872da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/课件/struts2值栈与OGNL表达式.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/stust2.xmind" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -56,13 +59,14 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEA_workspace\Learn_Struts2_stage3" />
+      <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\web\WEB-INF" />
+      <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\resource" />
       <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\web" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\web\WEB-INF" />
-      <recent name="H:\IDEA_workspace\Learn_Struts2_stage3\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -322,6 +326,7 @@
       <workItem from="1581410616044" duration="2886000" />
       <workItem from="1581423311827" duration="2054000" />
       <workItem from="1581434335327" duration="30000" />
+      <workItem from="1581484132459" duration="9000" />
     </task>
     <servers />
   </component>
