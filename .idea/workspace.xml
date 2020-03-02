@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9809f4-7698-46a8-9551-2290e63872da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/课件/struts2值栈与OGNL表达式.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课件/stust2.xmind" beforeDir="false" />
-    </list>
+    <list default="true" id="0d9809f4-7698-46a8-9551-2290e63872da" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -328,6 +325,7 @@
       <workItem from="1581434335327" duration="30000" />
       <workItem from="1581484132459" duration="9000" />
       <workItem from="1582814501894" duration="1000" />
+      <workItem from="1583150986551" duration="1000" />
     </task>
     <servers />
   </component>
